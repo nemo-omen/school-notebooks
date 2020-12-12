@@ -1,0 +1,12 @@
+{
+  "shell_port": 34879,
+  "iopub_port": 50313,
+  "stdin_port": 53797,
+  "control_port": 51935,
+  "hb_port": 32857,
+  "ip": "127.0.0.1",
+  "key": "312dbcad-96a11a2ba378fd3e7625b514",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "tslab"
+}
