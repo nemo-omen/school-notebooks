@@ -15,3 +15,5 @@ When the above is finished the cli will present you with a URL. Open the URL in 
 This environment includes the Github plugin. That's where you need to handle saving individual notebook directories to github or wherever you want to keep repos.
 
 In my case, of course, it's this repo!
+
+[TSLab - Getting started for JS users](https://nbviewer.jupyter.org/github/yunabe/tslab-examples/blob/master/notebooks/getting_started_javascript.ipynb)
