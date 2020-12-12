@@ -17,3 +17,18 @@ This environment includes the Github plugin. That's where you need to handle sav
 In my case, of course, it's this repo!
 
 [TSLab - Getting started for JS users](https://nbviewer.jupyter.org/github/yunabe/tslab-examples/blob/master/notebooks/getting_started_javascript.ipynb)
+
+
+When inside the notebook environment, you should be able to install npm packages, pip packages, etc with the included terminal.
+
+Personally, I like to install pnpm first:
+
+```bash
+npm install -g pnpm
+```
+
+Then, whatever charting libraries I might use or need
+
+```bash
+pnpm install d3 echarts
+```
